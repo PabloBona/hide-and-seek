@@ -1,4 +1,4 @@
-const worksContainer = document.querySelector('.portfolio');
+const worksContainer = document.querySelector('#portfolio');
 const modalContainer = document.querySelector('#modal-container');
 
 function initMenu() {
