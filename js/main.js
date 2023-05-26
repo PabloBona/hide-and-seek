@@ -1,5 +1,5 @@
 const worksContainer = document.querySelector('#portfolio');
-const modalContainer = document.querySelector('#modal-container');
+const modalContainer = document.querySelector('.modal-container');
 
 function initMenu() {
   const menuButton = document.querySelector('.burguer-menu button');
